@@ -1,6 +1,6 @@
-# Art from the San Diego Map
+# Art from the Dezful Map
 * [``Map.ipynb``](Map.ipynb) for the code
-* [``SanDiego.pdf``](SanDiego.pdf) for the vector PDF (3:2 aspect ratio)
-* [``SanDiego.png``](SanDiego.png) for the rasterized PNG (3:2 aspect ratio)
+* [``Dezful.pdf``](Dezful.pdf) for the vector PDF (3:2 aspect ratio)
+* [``Dezful.png``](Dezful.png) for the rasterized PNG (3:2 aspect ratio)
 
-<img src="SanDiego.png">
+<img src="Dezful.png">
